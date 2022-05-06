@@ -31,7 +31,7 @@ void main(){    // Uso o void para não precisar colocar o return 0 ao final do 
             printf("\nO menor numero eh: %d; nao ha segundo menor numero", menor);  // Significa que todos os elementos têm o mesmo valor
         }
         else{
-            printf("\nO menor numero eh: %d; o segundo menor numero eh: %d", menor, seg);   // Caso contrário
+            printf("\nO menor numero eh: %d; o segundo menor numero eh: %d", menor, seg);   // Caso contrário, mostra-se o menor e segundo menor número do vetor
         }
 }
 
